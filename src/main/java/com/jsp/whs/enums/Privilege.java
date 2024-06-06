@@ -1,0 +1,20 @@
+package com.jsp.whs.enums;
+
+public enum Privilege {
+	create_admin,
+	create_warehouse,
+	CREATE_ADDRESS,
+	CREATE_STORAGE,
+	
+	REAR,
+	
+	UPDATE_ADDRESS,
+	UPDATE_WAREHOUSE,
+	UPDATE_ADMIN,
+	UPDARE_STORAGE,
+	
+	DELETE_ADMIN,
+	DELETE_WAREHOUSE,
+	DELETE_ADDERESS,
+	DELETE_STORAGE
+}
